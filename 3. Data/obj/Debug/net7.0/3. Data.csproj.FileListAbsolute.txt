@@ -1,0 +1,12 @@
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\bin\Debug\net7.0\3. Data.deps.json
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\bin\Debug\net7.0\3. Data.dll
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\bin\Debug\net7.0\3. Data.pdb
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.csproj.AssemblyReference.cache
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.AssemblyInfoInputs.cache
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.AssemblyInfo.cs
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.csproj.CoreCompileInputs.cache
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.dll
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\refint\3. Data.dll
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\3. Data.pdb
+C:\Users\ramos\RiderProjects\si730pc2u202122512.API\3. Data\obj\Debug\net7.0\ref\3. Data.dll
